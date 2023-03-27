@@ -1,2 +1,2 @@
 # Carrinho_de_compras
- Sistema de lojininha - testando conhecimentos em POO
+ Sistema de lojinha - testando conhecimentos em POO
